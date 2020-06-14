@@ -1,16 +1,22 @@
 # s_app
 
-This is the app for WHS-Lock.
+### 概要
+スマートロックを制御するためのアプリです。
 
-## Getting Started
+### 機能
+- アカウント認証
+  + サインインやアカウント作成、パスワード再設定、Googleサインインなどの基本的な認証システム
+- BLE(不安定のため、現在削除中)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 仕様
+- 言語
+  + Dart
+- フレームワーク
+  + Flutter
+- ライブラリ
+  + firebase_core: ^0.4.4+3
+  + firebase_auth: ^0.16.0
+  + cloud_firestore: ^0.13.5
+  + google_sign_in: ^4.4.4
+  + flutter_blue: ^0.7.2
+### スクリーンショット
