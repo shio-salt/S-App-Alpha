@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153583200003",
+    "firebase_url": "https://fir-s-app-alpha.firebaseio.com",
+    "project_id": "fir-s-app-alpha",
+    "storage_bucket": "fir-s-app-alpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153583200003:android:a66721cec6a6097a02eb36",
+        "android_client_info": {
+          "package_name": "com.alpha.s_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153583200003-uqvrv4sdqc0i29h1p0ailufg32gd6n44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_evdxJb9g5UIeWFbuFu_AdV2i29RcFOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153583200003-uqvrv4sdqc0i29h1p0ailufg32gd6n44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
