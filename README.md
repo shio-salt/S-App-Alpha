@@ -20,3 +20,5 @@
   + google_sign_in: ^4.4.4
   + flutter_blue: ^0.7.2
 ### スクリーンショット
+https://cdn.discordapp.com/attachments/678239763177668608/721603364588093450/45220.jpg
+https://cdn.discordapp.com/attachments/678239763177668608/721603373648052254/45221.jpg
